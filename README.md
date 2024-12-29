@@ -1,5 +1,5 @@
 # Line-following-car
-A repository with all the code for a line-following car using the Arduino Uno R3. The main objective of the car includes following a simple black line path, navigating up and down a ramp, measure the distance travelled and also stop at a specific distance. 
+A repository with all the code for a line-following car using the Arduino Uno R3. The main objective of the car includes following a simple black line path, navigating up and down a ramp, measuring the distance travelled and also stop at a specific distance. 
 
 Aside from the main objectives, the car is also fitted with a Bluetooth module and multiple ultrasonic sensors for various additional features. These include wireless control, object tracking and also edge detection.
 
